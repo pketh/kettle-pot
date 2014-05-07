@@ -4,8 +4,6 @@ A color scheme designed to emphasize the code that matters.
 
 Kettle Pot uses color sparingly to draw focus to strings, numbers, tags, and control flow. Comments recede but are easily distinguishable from code.
 
-I use Menlo at 12px.
-
 ### Ruby
 <img src="screenshots/ruby.png" width="647" height="584">
 <img src="screenshots/ruby2.png" width="549" height="479">
@@ -34,6 +32,7 @@ Assuming you've already got [SublimeLinter][sl] and [GitGutter][gg] installed:
 3. Copy `SublimeLinter.sublime-settings` to `Sublime/User/`
 4. Enable and Enjoy!
 
+btw, I use Menlo at 12px.
 
 [sl]:http://www.sublimelinter.com/en/latest/installation.html
 [gg]:http://www.jisaacks.com/gitgutter
