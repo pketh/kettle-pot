@@ -7,7 +7,9 @@ Kettle Pot uses color sparingly to draw focus to strings, numbers, tags, and con
 I use Menlo at 12px.
 
 ### Ruby
-<img src="screenshots/ruby2.png" width="512" height="522">
+<img src="screenshots/ruby.png" width="647" height="584">
+<img src="screenshots/ruby2.png" width="549" height="479">
+
 
 ### Javascript
 <img src="screenshots/js.png" width="669" height="567">
