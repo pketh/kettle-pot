@@ -27,7 +27,7 @@ It'll probably work pretty great in everything.
 
 ## Installation
 
-Assuming you've already got [SublimeLinter][sl] and GitGutter[gg] installed:
+Assuming you've already got [SublimeLinter][sl] and [GitGutter][gg] installed:
 
 1. Download or clone this repo
 2. Copy `KettlePot.tmTheme` to `Sublime/User/Color Schemes`
